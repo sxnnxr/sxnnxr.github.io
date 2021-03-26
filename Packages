@@ -1,0 +1,28 @@
+Package: me.alfhaily.cercube
+Version: 5.2.12
+Section: Tweaks
+Maintainer: Idklol <cydia@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.alfhaily.cercube_5.2.12_iphoneos-arm.deb
+Size: 4250000
+MD5sum: 828489595b3ba57768a37227d130f79e
+Description: Cercube
+Name: Cercube
+Author: Cercube <cercube@cercube.com>
+Depiction: https://sxnnxr.github.io/sxnnxr/depictions/?p=me.alfhaily.cercube
+
+Package: com.r333d.cylinder
+Version: 1.0.4-5
+Section: Tweaks
+Maintainer: coolgut <cydia@gmail.com>
+Depends: firmware (>= 3.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/CYLINDER.deb
+Size: 330870
+MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
+Description: Ahh, Good old Cylinder. iOS 3.0 - 
+Name: Cylinder
+Author: r333d
+Depiction: https://sxnnxr.github.io/sxnnxr/depictions/?p=com.r333d.cylinder
+
